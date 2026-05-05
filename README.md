@@ -2,18 +2,8 @@
 <h3 align="center">Frontend Developer | IT Student | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=4th-year+IT+Student;Frontend+Developer+Intern;Creative+Editor+%26+Designer;Building+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=4th-year+IT+Student;Fullstack+Developer;Creative+Editor+%26+Designer;Building+Web+%26+Mobile+Apps" alt="Typing SVG" />
 </p>
-
----
-
-### 👨‍💻 Vài nét về bản thân (About Me)
-
-- 🎓 Hiện đang là sinh viên năm 4 chuyên ngành Công nghệ Thông tin tại trường Đại học Sư phạm Hà Nội (HNUE).
-- 💼 Đang thực tập ở vị trí **Frontend Developer**, tham gia phát triển và tối ưu hóa các ứng dụng thực tế.
-- 🎨 Từng có hơn 1 năm kinh nghiệm làm **Editor & Designer**, giúp tôi có tư duy thẩm mỹ tốt và luôn chú trọng vào trải nghiệm người dùng (UI/UX).
-- 🌱 Đang tập trung phát triển mạnh về mảng Web (ReactJS/NextJS) và Mobile App (React Native).
-- 📫 Bạn có thể liên hệ với tôi qua: **[Email của bạn]** hoặc **[Link LinkedIn của bạn]**.
 
 ---
 

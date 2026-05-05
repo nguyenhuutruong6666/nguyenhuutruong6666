@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Hữu Trường</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=4th-year+IT+Student;Fullstack+Developer;Creative+Editor+%26+Designer;Building+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Creative+Editor+%26+Designer;Building+Web+%26+Mobile+Apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nguyenhuutruong6666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[nguyenhuutruong6666](https://github.com/nguyenhuutruong6666)&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhuutruong6666&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
